@@ -1,2 +1,3 @@
 # Friction-DB
-V3 Ultimate is Live NOW!
+
+A gaming pheriperal Database inspired by eyejokerdb🖱️
